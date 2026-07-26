@@ -1,4 +1,24 @@
 # Autonomous AI-Powered Building Management System (AI-BMS)
+## PoC Demonstration Video
+### [▶ Watch the PoC Demonstration Video](Demovideo.mp4)
+### 3-Minute Autonomous AI-BMS Closed-Loop Demonstration
+
+The demonstration shows the complete autonomous control loop:
+
+**EnergyPlus → Building State Extraction → Carbon Context → Local Qwen LLM → Semantic Validator → Safety Guard → Real-Time Comfort Guard → HVAC Actuators → EnergyPlus**
+
+The video demonstrates:
+
+- Live building-state extraction from EnergyPlus
+- Data transfer from EnergyPlus to the AI controller
+- Local Qwen LLM supervisory decision-making
+- AI-generated HVAC heating and cooling setpoints
+- Semantic validation
+- Deterministic safety validation
+- Real-time occupant comfort protection
+- Automatic application of approved setpoints
+- Closed-loop feedback to EnergyPlus
+- Live dashboard visualization
 
 ## Honeywell Campus Connect – Proof of Concept Submission
 
