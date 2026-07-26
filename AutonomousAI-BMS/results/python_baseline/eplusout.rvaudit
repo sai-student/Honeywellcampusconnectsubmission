@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:building\models\5ZoneAI.rvi
+ input file:results\python_baseline\eplusout.eso
+ output file:results\python_baseline\eplusout.csv
+ getting all vars from:results\python_baseline\eplusout.eso
+  number variables requested for output=          92
+ ReadVars Run Time=00hr 00min  8.25sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:building\models\5ZoneAI.mvi
+ input file:results\python_baseline\eplusout.mtr
+ output file:results\python_baseline\eplusmtr.csv
+ getting all vars from:results\python_baseline\eplusout.mtr
+  number variables requested for output=          22
+ ReadVars Run Time=00hr 00min  0.47sec
+ ReadVarsESO program completed successfully.

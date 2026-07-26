@@ -1,0 +1,43 @@
+{
+  "status": "running",
+  "updated_at": "2026-07-26T19:14:49.932561",
+  "simulation_time": "01/07 23:60",
+  "outdoor_temperature": -20.0,
+  "zones": [
+    {
+      "name": "SPACE1-1",
+      "temperature": 21.0,
+      "occupancy": 0.0
+    },
+    {
+      "name": "SPACE2-1",
+      "temperature": 21.0,
+      "occupancy": 0.0
+    },
+    {
+      "name": "SPACE3-1",
+      "temperature": 21.0,
+      "occupancy": 0.0
+    },
+    {
+      "name": "SPACE4-1",
+      "temperature": 21.0,
+      "occupancy": 0.0
+    },
+    {
+      "name": "SPACE5-1",
+      "temperature": 21.0,
+      "occupancy": 0.0
+    }
+  ],
+  "total_occupancy": 0.0,
+  "avg_occupied_temperature": null,
+  "min_occupied_temperature": null,
+  "max_occupied_temperature": null,
+  "current_setpoints": {
+    "heating": 21.0,
+    "cooling": 26.0
+  },
+  "hvac_power_kw": 0.3764,
+  "carbon_intensity": 0.4
+}

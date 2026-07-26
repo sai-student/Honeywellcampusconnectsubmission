@@ -1,0 +1,39 @@
+# Python
+venv_ai/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / secrets
+.env
+.env.*
+*.key
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# EnergyPlus temporary/output files
+*.eso
+*.mtr
+*.audit
+*.bnd
+*.eio
+*.end
+*.shd
+*.rdd
+*.mdd
+*.dxf
+*.err
+*.sqlite
+*.htm
+
+# Temporary files
+*.tmp
+*.log

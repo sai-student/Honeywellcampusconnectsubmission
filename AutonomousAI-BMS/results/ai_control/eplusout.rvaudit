@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:E:\AutonomousAI-BMS\building\models\5ZoneAI.rvi
+ input file:E:\AutonomousAI-BMS\results\ai_control\eplusout.eso
+ output file:E:\AutonomousAI-BMS\results\ai_control\eplusout.csv
+ getting all vars from:E:\AutonomousAI-BMS\results\ai_control\eplusout.eso
+  number variables requested for output=          92
+ ReadVars Run Time=00hr 00min  0.28sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:E:\AutonomousAI-BMS\building\models\5ZoneAI.mvi
+ input file:E:\AutonomousAI-BMS\results\ai_control\eplusout.mtr
+ output file:E:\AutonomousAI-BMS\results\ai_control\eplusmtr.csv
+ getting all vars from:E:\AutonomousAI-BMS\results\ai_control\eplusout.mtr
+  number variables requested for output=          22
+ ReadVars Run Time=00hr 00min  0.03sec
+ ReadVarsESO program completed successfully.

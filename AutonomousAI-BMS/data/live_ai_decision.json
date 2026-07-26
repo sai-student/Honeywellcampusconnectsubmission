@@ -1,0 +1,38 @@
+{
+  "status": "active",
+  "updated_at": "2026-07-26T19:14:49.792754",
+  "simulation_time": "01/07 18:15",
+  "ai_call_number": 28,
+  "building_context": {
+    "occupancy": 52.0,
+    "avg_temperature": 22.18,
+    "min_temperature": 22.0,
+    "max_temperature": 22.89,
+    "outdoor_temperature": -17.1,
+    "hvac_power_kw": 0.3764,
+    "carbon_intensity": 0.55,
+    "carbon_level": "high"
+  },
+  "previous_setpoints": {
+    "heating": 22.0,
+    "cooling": 26.0
+  },
+  "llm_proposal": {
+    "heating": 18.0,
+    "cooling": 26.0
+  },
+  "approved_action": {
+    "heating": 20.0,
+    "cooling": 26.0
+  },
+  "reason": "Occupied zones are within the acceptable comfort temperature range.",
+  "energy_strategy": "Optimize HVAC energy consumption while maintaining occupant comfort.",
+  "comfort_risk": "low",
+  "semantic_modified": true,
+  "semantic_corrections": [
+    "Occupied heating setpoint raised to 20 C minimum.",
+    "High-carbon period detected; HVAC deadband widened while maintaining occupied comfort."
+  ],
+  "safety_modified": false,
+  "safety_corrections": []
+}
